@@ -22,7 +22,7 @@ Stay updated with me and following on Discord, Facebook, Linkdin, and Email.
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/nadiyanoor-25)
 
 
 # 💻 Tech Stack:
