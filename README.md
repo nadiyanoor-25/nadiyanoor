@@ -5,20 +5,15 @@ Reach Me by 👉 ✉️ **noormstnadiya@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on:** TechWisdom Web Solution LTD. as UI/UX Designer
 - 🌱 **I’m currently learning:** UI/UX Design
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Nadiya Noor
 - ⚡ **Fun fact:** I Love work and work Love Me
 
 ## 🔗 I am a pashonate Researcher and UI/UX designer. 😊😊
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
-
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+Stay updated with me and following on Discord, Facebook, Linkdin, and Email.
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nadiya.noor.827934) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-nadiya-noor-724651372/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:22-46454-1@student.aiub.edu) 
+---
 
 <!-- Snake Game Repo View -->
 
