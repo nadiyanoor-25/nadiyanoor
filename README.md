@@ -1,18 +1,18 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hello 👋, It's me Mst. Nadiya Noor
+**A passionate UI/UX Designer || Data Scientist **
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Reach Me by 👉 ✉️ **noormstnadiya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
+- 🔭 **I’m currently working on:** TechWisdom Web Solution LTD. as UI/UX Designer
+- 🌱 **I’m currently learning:** UI/UX Design
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 😄 **Pronouns:** Nadiya Noor
+- ⚡ **Fun fact:** I Love work and work Love Me
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a pashonate Researcher and UI/UX designer. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
